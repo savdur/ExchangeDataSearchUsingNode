@@ -1,0 +1,58 @@
+{
+    "exchanges": [
+        {
+            "name": "Binance",
+            "type": "Bid",
+            "assets": {
+                "USDT": 16978.82,
+                "BTC": 0.00656,
+                "Total": 111.38086
+            }
+        },
+        {
+            "name": "Binance",
+            "type": "Ask",
+            "assets": {
+                "USDT": 16978.78,
+                "BTC": 0.22403,
+                "Total": 3803.75608
+            }
+        },
+        {
+            "name": "Kraken",
+            "type": "Bid",
+            "assets": {
+                "USDT": 16978.76,
+                "BTC": 0.0258,
+                "Total": 438.05200
+            }
+        },
+        {
+            "name": "Kraken",
+            "type": "Ask",
+            "assets": {
+                "USDT": 16978.75,
+                "BTC": 0.1532,
+                "Total": 2601.13377
+            }
+        },
+        {
+            "name": "Huobi",
+            "type": "Bid",
+            "assets": {
+                "USDT": 16978.66,
+                "BTC": 0.1532,
+                "Total": 2601.13377
+            }
+        },
+        {
+            "name": "Huobi",
+            "type": "Ask",
+            "assets": {
+                "USDT": 16978.65,
+                "BTC": 0.0014,
+                "Total": 23.77012
+            }
+        }
+    ]
+}

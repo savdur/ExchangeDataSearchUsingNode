@@ -1,0 +1,2 @@
+Run command: npm run dev
+URL to test: http://localhost:3500/api/exchanges
